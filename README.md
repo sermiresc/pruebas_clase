@@ -33,3 +33,7 @@ ahora listas
 El codigo asi
 
 ```python
+#codigo de python
+print("Hola Mundo")
+```
+
