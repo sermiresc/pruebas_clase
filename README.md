@@ -1,10 +1,12 @@
-#Este es un comentario de primer nivel
+# Este es un comentario de primer nivel
 
 prueba txt
 existen nieveles de comentarios y van segun cabeceras como html h1, h2, h3
 
-##este es de segundo nivel
 
+## este es de segundo nivel
+
+Texto de prueba
 
 ### este es de tercer nivel
 
