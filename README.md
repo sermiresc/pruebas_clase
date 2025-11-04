@@ -36,4 +36,13 @@ El codigo asi
 #codigo de python
 print("Hola Mundo")
 ```
+ 
+Tambien puedo formatear una `palabra` o `grupo de palabras solas`
 
+## Tabla
+
+| Cod | Descripción |
+| --- | --- |
+| 1 | git |
+| 2 | docker |
+| 3 | Odoo |
